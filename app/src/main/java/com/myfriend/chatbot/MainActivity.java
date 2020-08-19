@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         mWebView.setWebViewClient(new WebViewClient());
 
         // REMOTE RESOURCE
-         mWebView.loadUrl("https://bot.dialogflow.com/f9b7f250-ea0c-4062-ba99-e9be7ae7f8cf");
+         mWebView.loadUrl("www.example.com");
 
         // LOCAL RESOURCE
         // mWebView.loadUrl("file:///android_asset/index.html");
